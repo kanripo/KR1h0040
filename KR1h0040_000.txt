@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 四書管窺
-#+DATE: 2016-04-12 14:02:33.233306
+#+DATE: 2016-04-12 14:02:33.710720
 #+PROPERTY: ID KR1h0040
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR1h0040_WYG_000-1a>¶
 　　欽定四庫全書　　　　　經部八¶
@@ -19,7 +19,7 @@
 楊士奇東里集則稱有四冊刻板在永嘉郡¶
 <pb:KR1h0040_WYG_000-1b>¶
 學永嘉葉琮知黄州府又刋置府學是明初¶
-印行已有二本然刋板皆散佚不傳故朱&KR0156;¶
+印行已有二本然刋板皆散佚不傳故朱彝¶
 尊經義考注云未見此本乃毛晉汲古閣舊¶
 抄大學中庸孟子尚全惟論語闕先進篇以¶
 下蓋傳寫有所佚脫然量其篇頁釐而析之¶
